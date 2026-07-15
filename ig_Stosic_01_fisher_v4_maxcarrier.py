@@ -241,5 +241,5 @@ last: [4, 5, 6, 11, 12, 18, 28]
 === donor za top y=12: x=28  P=0.2039 ===
 
 === next (ig_01_v4 max nosilac Fisher) ===
-next: [5, x, 15, y, 24, z, 36]
+next: [5, x, 15, y, 24, z, 36] 
 """
